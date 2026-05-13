@@ -1,3 +1,7 @@
+## URL Firebase: https://console.firebase.google.com/project/smart-campus-iot-2bd80/database/smart-campus-iot-2bd80-default-rtdb/data
+
+## URL Postman: https://restless-flare-1222.postman.co/workspace/GPS_CO2~8f170ee2-419c-4836-b1b7-5bb5e6a183ff/collection/7375360-f3569083-130e-4bec-8863-cb1ef5ce4ddd
+
 ## Deploying to Streamlit
 
 To run this application, follow these steps:
